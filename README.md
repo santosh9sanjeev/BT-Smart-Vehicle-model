@@ -12,3 +12,5 @@ This project uses
 This project uses Arduino IDE and the DC motors are connected to the motor driver, all the components are connected to the microcontroller Arduino UNO.The Arduino IDE in turn is connected to a temporary power source that can be a small power bank or batteries. The model vehicle recieives command from a phone with blueterm app via bluetooth communication.
 
 This is a brief description of our simple project.
+
+Project video link: https://youtu.be/ce-8JmkXkEs
